@@ -39,7 +39,7 @@ With this program, you can create your own data, train your own model or use exi
     * You can evaluate the model with every drawings in memory 
     
 ## Requirement :
-              (*version that i use*)
+- library     (*version that i use*)
 - Tensorflow  (*2.1.0*)
 - Numpy       (*1.18.0*)
 
