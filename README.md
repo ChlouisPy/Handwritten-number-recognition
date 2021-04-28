@@ -9,7 +9,7 @@ With this program, you can create your own data, train your own model or use exi
 ## How to use :
 
 1. After launching the program the home page appears 
-![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/iamges/1.png?raw=true)
+![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/main/images/1.png?raw=true)
 
   - You can directly start the main script and start drawing a number
   - You can also configure and import certain configurations
@@ -17,13 +17,13 @@ With this program, you can create your own data, train your own model or use exi
     * You can open a pre-trained model
 
 2. After starting, a blank page appears you can draw
-  ![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/iamges/2.png?raw=true)
+  ![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/main/images/2.png?raw=true)
   - You can press *i* to show your draw
   - You can press *enter* to finish your draw
   - You can press *right click* to reset the draw
 
 3. After pressing *enter* a new window appears
-  ![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/iamges/3.png?raw=true)
+  ![alt text](https://github.com/ChlouisPy/Handwritten-number-recognition/blob/main/images/3.png?raw=true)
   
   - The numbers in the center allow you to save your image with what the model should output. This is used to create your own dataset (*-* is if your drawing is bad)
   - In file menu
