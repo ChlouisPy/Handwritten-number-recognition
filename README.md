@@ -33,10 +33,10 @@ With this program, you can create your own data, train your own model or use exi
     * You can delete the last drawing in memory 
     * You can delete every drawings in memory
   -  In AI menu 
-    * You can save or open a new model
-    * You can fit your model
-    * You can evaluate the model with de last drawing you made 
-    * You can evaluate the model with every drawings in memory 
+     * You can save or open a new model
+     * You can fit your model
+     * You can evaluate the model with de last drawing you made 
+     * You can evaluate the model with every drawings in memory 
     
 ## Requirement :
 - library     (*version that i use*)
